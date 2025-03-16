@@ -147,7 +147,7 @@ Choose your preferred sync mode based on the matrix below:
 
 5. Copy the JAR file to your Keycloak providers directory
    ```bash
-   cp target/keycloak-remote-attribute-importer-*.jar <IS_HOME>/providers/
+   cp target/remote-attribute-importer-*.jar <IS_HOME>/providers/
    ```
 
 6. Restart Keycloak
